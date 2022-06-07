@@ -1,14 +1,14 @@
 {
-    "name": "سورس باد ميوزك",
-    "description": "اهلا بك في تنصيب باد ميوزك مجانا @Colli9",
-    "logo": "https://telegra.ph/file/48b97fda773050edd4e77.jpg",
+    "name": "سورس دادي ميوزك",
+    "description": "اهلا بك في تنصيب دادي ميوزك مجانا @evvvvs",
+    "logo": "https://telegra.ph/file/b5b4d296299b4387b661a.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "BadMusic",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Qa8tm/BadMusic",
+    "repository": "https://github.com/Badsource/BAD-SOURSE",
     "env": {
         "SESSION": {
             "description": "هنا ضع كود البايروكرام",
